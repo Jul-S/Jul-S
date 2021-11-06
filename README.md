@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Julia and I'm currently learning to become FullStack Developer at [HackYourFuture Copenhagen][hyf]
+# I'm currently learning to become FullStack Developer at [HackYourFuture Copenhagen][hyf]
 
 - 🔭 I just finished my individual project: [MealSharingApp][project]!
 - 🌱 I’m currently learning Javascript, HTML, CSS React NodeJS
