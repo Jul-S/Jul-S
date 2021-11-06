@@ -1,20 +1,19 @@
 ## Hi there 👋
 
-### I'm currently learning to become FullStack Developer at [HackYourFuture Copenhagen][hyf]
+### I'm developing my skills to become FullStack Developer
 
-- 🔭 I just finished my individual project: [MealSharingApp][project]!
-- 🌱 I’m currently learning Javascript, HTML, CSS React NodeJS
+- 🔭 I just finished my individual project (react/nodejs/heroku) check it out: [MealSharingApp][project]
+- 🌱 I’m currently finishing [HackYourFuture Bootcamp][hyf] as FullStack Developer (javascript/HTML/CSS/react/nodejs)
+- 👨‍💻 I have experience working with Java and C# in testing automation
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and dance
 
 ### Connect with me:
 👔 [linkedin][linkedin] **|** 
-📕 [facebook][facebook] **|** 
 
 
 [linkedin]: https://www.linkedin.com/in/j-samorodova/
-[facebook]: https://www.facebook.com/jul.samorodova
-[project]: https://github.com/Jul-S/meal-sharing
+[project]: https://mealsharingapps.herokuapp.com/
 [hyf]: https://www.hackyourfuture.dk/
 
 ### Languages and Tools:
