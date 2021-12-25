@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm developing my skills to become FullStack Developer
+### I'm constantly improving my skills to become experienced FullStack Developer
 
 - 🔭 I just finished my individual project (react/nodejs/heroku) check it out: [MealSharingApp][project]
 - 🌱 I’m currently finishing [HackYourFuture Bootcamp][hyf] as FullStack Developer (javascript/HTML/CSS/react/nodejs)
