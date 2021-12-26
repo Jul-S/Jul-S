@@ -13,7 +13,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/j-samorodova/
-[project]: https://mealsharingapps.herokuapp.com/
+[project]: https://juls-meal-sharing.herokuapp.com/
 [hyf]: https://www.hackyourfuture.dk/
 
 ### Languages and Tools:
